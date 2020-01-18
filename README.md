@@ -1,2 +1,2 @@
 # random
-To run test use command -Denv=prod
+To run the tests use command -Denv=prod
