@@ -23,7 +23,7 @@ public class RollDiceTest {
 
     @BeforeAll
     static void initConfiguration() {
-        setConfigurationData(System.getProperty("env"));
+        setConfigurationData(System.getProperty(ENV_PROPERTIES));
     }
 
     @ParameterizedTest
