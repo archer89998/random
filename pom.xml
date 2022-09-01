@@ -10,7 +10,7 @@
     <name>Random Automation</name>
 
     <properties>
-        <jsoup.version>1.11.3</jsoup.version>
+        <jsoup.version>1.15.3</jsoup.version>
         <allure.version>2.12.1</allure.version>
         <junit.jupiter.version>5.4.2</junit.jupiter.version>
         <junit.vintage.version>5.4.2</junit.vintage.version>
